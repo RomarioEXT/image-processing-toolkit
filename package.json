@@ -1,0 +1,25 @@
+{
+  "name": "image-processing-toolkit",
+  "version": "1.0.0",
+  "description": "A simple JavaScript package for image processing tasks such as resizing and converting images.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "processing",
+    "resize",
+    "convert",
+    "toolkit"
+  ],
+  "author": "RomarioEXT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomarioEXT/image-processing-toolkit.git"
+  },
+  "dependencies": {
+    "sharp": "^0.29.0"
+  }
+}
